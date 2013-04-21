@@ -1,8 +1,11 @@
 {
   "name": "ifon",
   "version": "0.1.0",
-  "description": "An application that executes other apps if an internet connection is available.",
+  "description": "Observes your internet connection and executes configured apps if you're online or offline.",
   "main": "index.js",
+  "bin": {
+    "ifon": "./bin/ifon"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +14,9 @@
     "url": "git@github.com:akoenig/ifon.git"
   },
   "author": "André König (andre.koenig@gmail.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+      "grunt": "0.4.x",
+      "grunt-contrib-jshint": "0.2.x"
+  }
 }
