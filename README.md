@@ -1,6 +1,6 @@
 # ifon
 
-ifon - yes, I know. Sounds a little bit like a famous Smartphone, but check your pronunciation. It is "if on" (: - is an application which observes your internet connection and executes applications in the respective status. "If online, execute these apps - If offline, execute these apps."
+ifon – yes, I know. Sounds a little bit like a famous Smartphone, but check your pronunciation. It is "if on" (: – is an application which observes your internet connection and executes applications in the respective status. "If online, execute these apps - If offline, execute these apps."
 
 **Platforms:** Note that this is a very first draft and only has support for the Linux platform at the moment. Feel free to contribute handlers for the other platforms if you like the idea (:
 
